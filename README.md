@@ -1,7 +1,7 @@
-# MLH Localhost: Hacking with Amazon Alexa
+# Hacking with Amazon Alexa
 
-This repositiory contains the sample code from the [MLH Localhost: Hacking
-with Amazon Alexa][1] workshop.
+This repositiory contains the sample code from the Hacking
+with Amazon Alexa workshop.
 
 ## Sample Code / Downloads
 
@@ -36,7 +36,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 ```
 
-[1]: https://localhost.mlh.io/activities/hacking-with-amazon-alexa/
 [2]: src/
 [3]: https://github.com/MLH/mlh-localhost-hacking-with-alexa/raw/master/downloads/lambda-function.zip
 [4]: SpeechAssets/IntentSchema.json
